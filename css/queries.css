@@ -1,0 +1,30 @@
+/* 392px */
+@media (max-width: 24.5em) {
+  html {
+    font-size: 50%;
+  }
+}
+/* 272px */
+@media (max-width: 17em) {
+  html {
+    font-size: 45%;
+  }
+  .answer {
+    font-size: 2.5rem;
+  }
+  .question-box {
+    font-size: 1.5rem;
+  }
+}
+/* 224px */
+@media (max-width: 14em) {
+  html {
+    font-size: 40%;
+  }
+}
+/* 192px */
+@media (max-width: 12em) {
+  html {
+    font-size: 35%;
+  }
+}
