@@ -1,3 +1,4 @@
+`use strict`;
 // variables
 const answerNo = document.querySelector(`.defeat`);
 const test = document.querySelector(`.test`);
