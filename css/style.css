@@ -61,7 +61,7 @@ h1 {
   color: #fff;
   text-shadow: 0.5px 0.5px #000;
   transition: all 0.1s;
-  pointer-events: none;
+  user-select: none;
 }
 .answer:hover {
   color: #000;
