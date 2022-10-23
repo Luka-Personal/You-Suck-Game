@@ -3,7 +3,7 @@ Want to find out your truth? find out using my game
 
 P.S after a looooong break i am finally back and will be more active
 
-Date Finished 09/31/2022 - Слава Украине!
+Date Finished 09/31/2022 - Слава Україні!
 
 Created by - Luka Tsinaridze, Languages used - Vanilla Javascript, HTML, CSS
 
